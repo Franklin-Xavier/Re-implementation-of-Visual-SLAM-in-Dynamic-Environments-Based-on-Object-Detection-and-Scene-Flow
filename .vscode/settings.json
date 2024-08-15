@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.osx": {
+        "KMP_DUPLICATE_LIB_OK":"True"
+    }
+}
